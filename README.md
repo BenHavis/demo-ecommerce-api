@@ -24,8 +24,8 @@ This project implements a RESTful API for an e-commerce application, built with 
 
 1. Clone the repository:
    ```
-   git clone [repository URL]
-   cd [repository name]
+   git clone https://github.com/dpashkevich/demo-ecommerce-api.git
+   cd demo-ecommerce-api
    ```
 
 2. Install dependencies:
